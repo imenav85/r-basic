@@ -1,11 +1,8 @@
 ---
-title: "Mi primer Markdown"
-author: "Curso de Álgebra Lineal"
-date: "11/12/2018"
-output:
-  pdf_document: default
-  html_document:
-  #  df_print: paged
+title: "nueva"
+author: "Isma"
+date: "10/8/2020"
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}

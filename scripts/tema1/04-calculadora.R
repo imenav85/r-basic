@@ -17,6 +17,7 @@
 725%/%7
 
 725%%7
+# Algoritmo de Euclides
 # D = d * q + r
 # r = D - d * q
 # q = D %/% d
